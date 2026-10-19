@@ -26,9 +26,11 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 ## 🌱 Currently Learning
 
-- Building reliable CLI tools
-- AI automation
-- Systems programming
+![Reliable CLI Tools](https://img.shields.io/badge/Reliable_CLI_Tools-334155?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+![AI Automation](https://img.shields.io/badge/AI_Automation-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
+
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-1D4ED8?style=for-the-badge&logo=linux&logoColor=white)
 
 ## 🤝 Connect with Me
 
