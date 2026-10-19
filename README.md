@@ -1,11 +1,11 @@
-Hello, I'm Amr hasanain 👋
+# Hello, I'm Amr Hasanain 👋
 
-I'm a Developer interested in building Developer tools, CLI tools, Automation, AI Automation, and Systems.
+I'm a developer interested in building developer tools, CLI tools, automation, AI automation, and systems.
 
 ## 🛠️ Languages
 - C++
 - Python
-- Javascript
+- JavaScript
 
 ## 🚀 Featured Projects
 
@@ -14,3 +14,5 @@ I'm a Developer interested in building Developer tools, CLI tools, Automation, A
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
+
+---
