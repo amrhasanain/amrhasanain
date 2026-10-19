@@ -22,7 +22,10 @@ DuckPilot is powered by [Groq](https://groq.com), providing fast AI responses.
 
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
 
+**Export** is A lightweight Windows command-line tool for creating custom command aliases to launch programs by name.
+
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
+
 
 ## 🌱 Currently learning
 - Building reliable CLI tools
