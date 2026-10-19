@@ -26,6 +26,7 @@ DuckPilot is powered by [Groq](https://groq.com), providing fast AI responses.
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
 
+**Githubdeployer** is A lightweight auto GitHub deployer made with the C++ programming language.
 
 ## 🌱 Currently learning
 - Building reliable CLI tools
