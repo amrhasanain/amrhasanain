@@ -1,18 +1,16 @@
 Hello, I'm Amr hasanain 👋
 
 I'm a Developer interested in building Developer tools, CLI tools, Automation, AI Automation, and Systems.
-I love working with:
+
+## 🛠️ Languages
 - C++
 - Python
 - Javascript
 
-I created some projects, such as:
+## 🚀 Featured Projects
 
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
-
----
-
