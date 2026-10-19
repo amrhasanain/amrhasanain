@@ -2,6 +2,12 @@
 
 I'm a developer interested in building developer tools, CLI tools, automation, AI automation, and systems.
 
+[![Developer Tools](https://img.shields.io/badge/Developer%20Tools-222222?style=flat-square&logo=github&logoColor=white)](https://github.com/amrhasanain)
+[![CLI Tools](https://img.shields.io/badge/CLI%20Tools-334155?style=flat-square&logo=windowsterminal&logoColor=white)](https://github.com/amrhasanain)
+[![Automation](https://img.shields.io/badge/Automation-0F766E?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/amrhasanain)
+[![AI Automation](https://img.shields.io/badge/AI%20Automation-6D28D9?style=flat-square&logo=openai&logoColor=white)](https://github.com/amrhasanain)
+[![Systems](https://img.shields.io/badge/Systems-1D4ED8?style=flat-square&logo=linux&logoColor=white)](https://github.com/amrhasanain)
+
 ## 🛠️ Languages
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -26,4 +32,4 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/amrhasanain)
+[![GitHub](https://img.shields.io/badge/GitHub-@amrhasanain-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amrhasanain)
