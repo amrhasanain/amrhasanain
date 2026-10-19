@@ -15,4 +15,10 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
 
----
+## 🌱 Currently learning
+- Building reliable CLI tools
+- AI automation
+- Systems programming
+
+## 🤝 Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/amrhasanain)
