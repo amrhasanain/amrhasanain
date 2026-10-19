@@ -14,6 +14,12 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
+**DuckPilot is an AI coding agent that lives in your terminal.**
+
+You describe what you want in plain language, and it does the work: it reads your files, writes new ones, edits existing code, and runs commands to check that everything works.
+
+DuckPilot is powered by [Groq](https://groq.com), providing fast AI responses.
+
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
