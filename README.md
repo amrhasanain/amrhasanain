@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello, I'm Amr hasanain 👋
+I'm a Developer interested in building Developer tools, CLI tools, Automation, AI Automation, and Systems.
+I love working with:
+- C++
+- Python
+- Javascript
+I created some projects, such as:
 
-<!--
-**amrhasanain/amrhasanain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
-Here are some ideas to get you started:
+[![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
+
+---
+
