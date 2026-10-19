@@ -1,4 +1,4 @@
-# Hello, I'm Amr Hasanain 👋
+# Hey, I'm Amr Hasanain 👋
 
 I'm a developer interested in building developer tools, CLI tools, automation, AI automation, and systems.
 
@@ -14,24 +14,16 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
-**DuckPilot is an AI coding agent that lives in your terminal.**
-
-You describe what you want in plain language, and it does the work: it reads your files, writes new ones, edits existing code, and runs commands to check that everything works.
-
-DuckPilot is powered by [Groq](https://groq.com), providing fast AI responses.
-
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
-
-**Export** is A lightweight Windows command-line tool for creating custom command aliases to launch programs by name.
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
 
-**Githubdeployer** is A lightweight auto GitHub deployer made with the C++ programming language.
+## 🌱 Currently Learning
 
-## 🌱 Currently learning
 - Building reliable CLI tools
 - AI automation
 - Systems programming
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/amrhasanain)
