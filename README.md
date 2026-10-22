@@ -24,6 +24,8 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
 
+[![ObjectiveRust](https://img.shields.io/badge/ObjectiveRust-Explore%20project-DB6D28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/objrust)
+
 ## 🌱 Currently Learning
 
 ![Reliable CLI Tools](https://img.shields.io/badge/Reliable_CLI_Tools-334155?style=for-the-badge&logo=windowsterminal&logoColor=white)
