@@ -30,6 +30,12 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![ObjectiveRust](https://img.shields.io/badge/ObjectiveRust-Explore%20project-DB6D28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/objrust)
 
+## 🧩 More Projects
+
+[![C++ Projects](https://img.shields.io/badge/C%2B%2B%20Projects-Explore%20project-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amrhasanain/cpp-projects)
+
+A collection of my C++ projects, check them out on GitHub.
+
 ## 🌱 Currently Learning
 
 ![Reliable CLI Tools](https://img.shields.io/badge/Reliable_CLI_Tools-334155?style=for-the-badge&logo=windowsterminal&logoColor=white)
