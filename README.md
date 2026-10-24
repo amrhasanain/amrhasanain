@@ -24,11 +24,19 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
+An AI coding agent that lives in your terminal. Describe what you want in plain language, and it reads your files, writes and edits code, and runs commands to verify the result, asking for your permission before anything risky. Powered by Groq for fast replies.
+
 [![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
+
+A lightweight Windows command-line tool for creating custom command aliases to launch programs by name. Built with C++.
 
 [![Githubdeployer](https://img.shields.io/badge/Githubdeployer-Explore%20project-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/Githubdeployer)
 
+A lightweight auto GitHub deployer built with C++. Publish your project to a GitHub repo with a single command (`ghdeployer publish`). Available for Windows, Linux, and macOS.
+
 [![ObjectiveRust](https://img.shields.io/badge/ObjectiveRust-Explore%20project-DB6D28?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/objrust)
+
+Write Rust with classes. ObjectiveRust translates class-style declarations in `.orst` files into regular Rust structs and `impl` blocks, and the `objrust` command can compile and run the result. Comes with a VS Code extension for syntax highlighting.
 
 ## 🧩 More Projects
 
