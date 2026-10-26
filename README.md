@@ -38,6 +38,10 @@ A lightweight auto GitHub deployer built with C++. Publish your project to a Git
 
 Write Rust with classes. ObjectiveRust translates class-style declarations in `.orst` files into regular Rust structs and `impl` blocks, and the `objrust` command can compile and run the result. Comes with a VS Code extension for syntax highlighting.
 
+[![VibeCap](https://img.shields.io/badge/VibeCap-Explore%20project-DB2777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/vibecap)
+
+A free, open-source auto caption maker. It transcribes your video with Groq Whisper, then uses FFmpeg to render the captions onto it. Supports multiple caption styles (classic, YouTube, TikTok, karaoke, neon, minimal), Arabic and English, and SRT-only export.
+
 ## 🧩 More Projects
 
 [![C++ Projects](https://img.shields.io/badge/C%2B%2B%20Projects-Explore%20project-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/amrhasanain/cpp-projects)
