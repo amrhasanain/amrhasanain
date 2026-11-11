@@ -16,13 +16,13 @@ I'm a developer interested in building developer tools, CLI tools, automation, A
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-
-[![ObjectiveRust](https://img.shields.io/badge/ObjectiveRust-DB6D28?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/amrhasanain/objrust)
+---
 
 ## 🚀 Featured Projects
 
+
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
+
 
 An AI coding agent that lives in your terminal. Describe what you want in plain language, and it reads your files, writes and edits code, and runs commands to verify the result, asking for your permission before anything risky. Powered by Groq for fast replies.
 
