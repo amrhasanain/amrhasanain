@@ -96,7 +96,9 @@ A collection of my C++ projects. Check them out on GitHub.
 ## 🌱 Currently Learning
 
 ![Reliable CLI Tools](https://img.shields.io/badge/Reliable%20CLI%20Tools-334155?style=flat&logo=windowsterminal&logoColor=white)
+
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-6D28D9?style=flat&logo=openai&logoColor=white)
+
 ![Systems Programming](https://img.shields.io/badge/Systems%20Programming-1D4ED8?style=flat&logo=linux&logoColor=white)
 
 ## 🤝 Connect with Me
